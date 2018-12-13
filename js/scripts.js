@@ -7,3 +7,7 @@ var add = function(number1, number2) {
   var number2 = parseInt(prompt("Enter another number:"));
   var result = add(number1, number2);
   alert(result);
+  function myFunction(){
+      var firstString=Document.getElementById("myNumber".value)
+  }
+  alert(firstString);
